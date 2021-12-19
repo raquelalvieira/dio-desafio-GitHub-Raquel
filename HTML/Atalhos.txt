@@ -1,0 +1,11 @@
+# Algumas funções em HTML
+- section
+- header
+- article
+- aside
+- footer
+- <h1>-<h6>
+- <a> </a> para links
+- < a href="link"
+- <a href= "malito: email"
+- <a target= "_blank">link</a>
