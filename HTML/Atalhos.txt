@@ -9,3 +9,4 @@
 - < a href="link"
 - <a href= "malito: email"
 - <a target= "_blank">link</a>
+- link para mais conteudo sobre desenvolvimento de web: https://developer.mozilla.org/pt-BR/
