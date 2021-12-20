@@ -24,7 +24,7 @@ Link de dicas para markdown https://www.markdownguide.org/basic-syntax/ .
 - git status
 - git push origin master ou main (precisa de senha)
 - git clone : copia repositórios
-## Para atulizar repositórios 
+## Para atualizar repositórios 
 - git add .
 - git commit -m "comentário sobre as mudanças"
 - git push origin main
