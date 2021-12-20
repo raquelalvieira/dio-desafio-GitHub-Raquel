@@ -22,5 +22,9 @@ Link de dicas para markdown https://www.markdownguide.org/basic-syntax/ .
 - git remote add origin endereço https:// do repositório no github
 - git remote -v
 - git status
-- git push origin master (precisa de senha)
+- git push origin master ou main (precisa de senha)
 - git clone : copia repositórios
+## Para atulizar repositórios 
+- git add .
+- git commit -m "comentário sobre as mudanças"
+- git push origin main
